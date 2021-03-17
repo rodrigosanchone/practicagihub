@@ -11,10 +11,12 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
+    height:auto;
 }
 
 .contenedor{
-    padding: 100px 10px;
+   width:90%;
+   margin: 0 auto;
 }
 
 
@@ -39,7 +41,6 @@ body{
     color: #52325d;
     font-size: 2.5rem;
     margin: 5px  auto;
-    
 }
 
 
@@ -52,19 +53,89 @@ a:hover{
 @media(min-width: 768px){
     .contenedor{
         display: grid;
-        width:80%;
+        width:90%;
         grid-template-columns: repeat(2,1fr);
+        column-gap: 10rem;
         padding: 350px 10px;
+        gap: 15px;
     }
     .nav{
-        margin-left: 15px;
         display:flex;
         flex-direction: row;
         justify-content: space-between;
-        margin-top: 0px;;
+        margin-top: 0px; 
     }
+    
     .logo{
         font-size: 2.5rem;
         margin-right: 50px;
     }
 }
+
+
+  
+.principal{
+    background-color: rgb(155, 128, 121,.2);
+}
+
+.contenedor-principal{
+    width:80%;
+    margin: 0 auto;
+    
+    
+}
+
+.principal h2{
+    text-align: center;
+}
+
+
+.tarjeta-zapato{
+    margin: 0 12px;
+}
+
+.titulo-tarjeta{
+  text-align: center;
+  
+}
+
+.tarjeta-zapato img{
+    width:100%;
+    margin: 0 20%;
+    height: 200px;
+    border-radius:5px;
+    cursor: pointer;
+    
+}
+
+
+
+
+.overlay{
+    position: fixed;
+    background-color: rgba(0,0,0,.5);
+    width: 100%;
+    height:100%;
+    top:0;
+    display: grid;
+    place-items: center;
+}
+
+.fijar-body {
+    overflow: hidden;
+}
+
+
+
+
+
+
+@media (min-width:768px){
+    .row{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        padding: 50px;
+    }
+}
+
+
