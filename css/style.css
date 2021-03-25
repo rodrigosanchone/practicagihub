@@ -9,14 +9,15 @@ body{
     height: 890px;
     background: url('https://images.unsplash.com/photo-1611080027147-a1a0b6e05168?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80');
     background-size: cover;
-    background-repeat: no-repeat;
-    width:100%;
-    height:auto;
+    background-repeat:no-repeat;
+    
 }
 
 .contenedor{
    width:90%;
    margin: 0 auto;
+   height:890px;
+   align-items: center;
 }
 
 
@@ -56,14 +57,15 @@ a:hover{
         width:90%;
         grid-template-columns: repeat(2,1fr);
         column-gap: 10rem;
-        padding: 350px 10px;
-        gap: 15px;
+        align-content: center;
+      
     }
     .nav{
         display:flex;
         flex-direction: row;
         justify-content: space-between;
         margin-top: 0px; 
+        
     }
     
     .logo{
@@ -75,21 +77,17 @@ a:hover{
 
   
 .principal{
-    background-color: rgb(155, 128, 121,.2);
+    background-color: rgb(155, 128, 121,.4);
+    margin-top:-33px;
+    
 }
 
 .contenedor-principal{
     width:80%;
     margin: 0 auto;
     
-    
+
 }
-
-.principal h2{
-    text-align: center;
-}
-
-
 .tarjeta-zapato{
     margin: 0 12px;
 }
@@ -138,4 +136,70 @@ a:hover{
     }
 }
 
+/*Estilos blog*/
+
+bg-principal{
+    background:#dfcbc4;
+}
+
+
+
+.contenedorArt{
+    display:grid;
+    grid-template-columns: 60% 40%;
+    padding: 5px 0;
+}
+
+.textoArticulo{
+    line-height: 2;
+    font-weight: bold;
+    font-size: 16px;
+ 
+}
+
+.imgArticulo{
+    width: 100%;
+    height:500px;
+}
+
+.articulo{
+    display:none;
+}
+
+ h2{
+     text-align: center;
+    font-size:2.5rem;
+    padding-top: 15px;
+}
+
+.articulo:first-of-type{
+    display:block;
+}
+
+.textoArticulo{
+  padding: 5rem;
+}
+
+.paginacion{
+    display:flex;
+    justify-content:space-between;
+    padding: 15px 0;
+}
+
+.paginacion button{
+    border: 1px solid;
+    background-color:#fff;
+    color:#d15a1a;;
+    font-size:2.5rem;
+    padding:1rem;
+    border-radius: 1rem;
+    font-weight:bold
+}
+
+.paginacion button:hover{
+    cursor:pointer;
+    border:1px solid;
+    background-color:#d15a1a;
+    color: #fff;
+}
 

@@ -1,0 +1,52 @@
+{
+    "articulos": [
+        {
+        "id": 1,
+        "titulo": "Ropa comoda",
+        "img": "https://images.unsplash.com/photo-1607644735254-49d280b291eb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id urna mollis, dapibus neque id, venenatis sem. Mauris vitae est id nulla eleifend faucibus. Maecenas rutrum tempus egestas. In pharetra vitae massa ac tincidunt. In vel est mauris. Nunc sollicitudin, diam sit amet pulvinar lacinia, risus nisl laoreet velit, ut egestas nisi ante nec ligula. Donec lobortis lacinia tincidunt. Vestibulum vitae risus at tortor ornare viverra vitae eget neque. Pellentesque nec lacus vitae lectus sollicitudin viverra. Nunc nec ultricies ipsum. Curabitur non suscipit metus. Nullam id velit placerat, pharetra lorem ut, sodales nibh. Nam ornare lacinia quam sit amet ullamcorper. Sed euismod, ex id suscipit feugiat, lorem augue placerat ante, at interdum est ex non felis. Curabitur nisl quam, ullamcorper sit amet pulvinar nec, congue eget felis."
+      }, 
+    {
+        "id": 2,
+        "titulo": "Ropa para caballeros",
+        "img": "https://images.unsplash.com/photo-1588718862567-37662529f6d5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1243&q=80",
+        "texto":"Donec eu hendrerit libero. Aliquam erat volutpat. Suspendisse viverra, nibh sed auctor consequat, enim ante mollis dui, vitae imperdiet magna urna ac sem. Donec tincidunt ante ex, eget pellentesque risus cursus quis. Donec libero velit, vehicula nec bibendum sed, dictum a nulla. Sed at facilisis tortor. Nulla tellus turpis, laoreet ullamcorper finibus vel, rutrum a nunc. Ut in efficitur nisi. Aenean id dui feugiat, egestas lacus non, pellentesque sapien. Aenean pretium lectus quis erat dignissim vehicula. Cras consequat metus turpis. Fusce euismod finibus velit, id consequat turpis efficitur id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a posuere urna. Nunc in erat sed leo porta condimentum. Phasellus in dapibus erat, at sodales tortor."
+    },
+    {
+        "id": 3,
+        "titulo": "Ropa Damas",
+        "img": "https://images.unsplash.com/photo-1614360836583-7709ea7b02b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80",
+        "texto": "Curabitur nec ligula ac justo consequat porta non id mi. Mauris vel porttitor risus, laoreet scelerisque nisi. Duis at orci quis nulla cursus lacinia. Suspendisse ullamcorper at massa ac consequat. Aenean eu metus tristique leo volutpat malesuada. Proin pretium lorem in nisi egestas venenatis. Aliquam iaculis dictum ultricies. Morbi facilisis neque a mi luctus, auctor pellentesque metus convallis. Duis iaculis magna nulla, non volutpat diam fringilla nec. In eget leo dui. Integer sollicitudin mi ante, sed dictum felis scelerisque non. Morbi consectetur viverra dolor, vel dignissim quam interdum sit amet."
+      }, 
+      {
+        "id": 4,
+        "titulo": "Para fiesta",
+        "img": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "texto": "Maecenas tristique velit in dictum pulvinar. Donec semper erat eros, a pellentesque nibh vulputate vitae. Suspendisse efficitur odio eu felis vestibulum vestibulum. Phasellus bibendum ipsum in fermentum suscipit. In hac habitasse platea dictumst. Cras eu lobortis nulla, eget lacinia erat. In hendrerit ligula in turpis commodo, eu accumsan ligula iaculis. Curabitur tempus nibh odio, sit amet tincidunt libero lacinia nec. Donec lectus mauris, fermentum in ex non, laoreet pretium nisi.."
+      }, 
+      {
+        "id": 5,
+        "titulo": "Ropa comoda",
+        "img": "https://images.unsplash.com/photo-1607644735254-49d280b291eb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id urna mollis, dapibus neque id, venenatis sem. Mauris vitae est id nulla eleifend faucibus. Maecenas rutrum tempus egestas. In pharetra vitae massa ac tincidunt. In vel est mauris. Nunc sollicitudin, diam sit amet pulvinar lacinia, risus nisl laoreet velit, ut egestas nisi ante nec ligula. Donec lobortis lacinia tincidunt. Vestibulum vitae risus at tortor ornare viverra vitae eget neque. Pellentesque nec lacus vitae lectus sollicitudin viverra. Nunc nec ultricies ipsum. Curabitur non suscipit metus. Nullam id velit placerat, pharetra lorem ut, sodales nibh. Nam ornare lacinia quam sit amet ullamcorper. Sed euismod, ex id suscipit feugiat, lorem augue placerat ante, at interdum est ex non felis. Curabitur nisl quam, ullamcorper sit amet pulvinar nec, congue eget felis."
+      }, 
+    {
+        "id": 6,
+        "titulo": "Ropa para caballeros",
+        "img": "https://images.unsplash.com/photo-1588718862567-37662529f6d5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1243&q=80",
+        "texto":"Donec eu hendrerit libero. Aliquam erat volutpat. Suspendisse viverra, nibh sed auctor consequat, enim ante mollis dui, vitae imperdiet magna urna ac sem. Donec tincidunt ante ex, eget pellentesque risus cursus quis. Donec libero velit, vehicula nec bibendum sed, dictum a nulla. Sed at facilisis tortor. Nulla tellus turpis, laoreet ullamcorper finibus vel, rutrum a nunc. Ut in efficitur nisi. Aenean id dui feugiat, egestas lacus non, pellentesque sapien. Aenean pretium lectus quis erat dignissim vehicula. Cras consequat metus turpis. Fusce euismod finibus velit, id consequat turpis efficitur id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a posuere urna. Nunc in erat sed leo porta condimentum. Phasellus in dapibus erat, at sodales tortor."
+    },
+    {
+        "id": 7,
+        "titulo": "Ropa Damas",
+        "img": "https://images.unsplash.com/photo-1614360836583-7709ea7b02b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80",
+        "texto": "Curabitur nec ligula ac justo consequat porta non id mi. Mauris vel porttitor risus, laoreet scelerisque nisi. Duis at orci quis nulla cursus lacinia. Suspendisse ullamcorper at massa ac consequat. Aenean eu metus tristique leo volutpat malesuada. Proin pretium lorem in nisi egestas venenatis. Aliquam iaculis dictum ultricies. Morbi facilisis neque a mi luctus, auctor pellentesque metus convallis. Duis iaculis magna nulla, non volutpat diam fringilla nec. In eget leo dui. Integer sollicitudin mi ante, sed dictum felis scelerisque non. Morbi consectetur viverra dolor, vel dignissim quam interdum sit amet."
+      }, 
+      {
+        "id": 8,
+        "titulo": "Para fiesta",
+        "img": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "texto": "Maecenas tristique velit in dictum pulvinar. Donec semper erat eros, a pellentesque nibh vulputate vitae. Suspendisse efficitur odio eu felis vestibulum vestibulum. Phasellus bibendum ipsum in fermentum suscipit. In hac habitasse platea dictumst. Cras eu lobortis nulla, eget lacinia erat. In hendrerit ligula in turpis commodo, eu accumsan ligula iaculis. Curabitur tempus nibh odio, sit amet tincidunt libero lacinia nec. Donec lectus mauris, fermentum in ex non, laoreet pretium nisi.."
+      }
+   ]
+}
